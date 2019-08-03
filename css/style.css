@@ -1,1 +1,23 @@
 /* CSS Document */
+
+/* Global */
+
+body {
+	font-family: 'Crimson Text', serif;
+	font-size: 16px;
+	color: #000000;
+	}
+.text {
+	display: flex;
+	}
+.poetry {
+	margin: auto;
+	}
+.poetry h2 {
+	margin-bottom: 0;
+	font-size: 40px;
+	}
+.poetry h4 {
+	margin-top:0;
+	margin-bottom: 50px;
+}
